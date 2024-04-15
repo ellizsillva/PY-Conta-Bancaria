@@ -1,7 +1,7 @@
 from sacar import sacar
 from depositar import depositar
 
-saldo = 0
+saldo = 2000
 print("Bom dia! Gostaria de realizar um saque ou um deposito?")
 acao = input()
 
